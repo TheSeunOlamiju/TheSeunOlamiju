@@ -1,8 +1,13 @@
-# 👋 Hi, I'm Seun Olamiju
+<h1 align="center">Hi 👋, I'm Seun Olamiju</h1>
+<h3 align="center">Frontend Developer | HTML • CSS • JavaScript | Learning React 🚀</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheSeunOlamiju&style=for-the-badge&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheSeunOlamiju&style=for-the-badge&color=blue" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Currently+Learning+React+%F0%9F%9A%80;Building+Clean+and+Responsive+Web+Interfaces)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Currently+Learning+React+%F0%9F%9A%80;Building+Clean+and+Responsive+Web+Interfaces" />
+</p>
 
 ---
 
@@ -32,15 +37,22 @@ I enjoy turning ideas into interactive web experiences and I'm currently learnin
 
 ---
 
-## 📊 GitHub Stats:
-![Seun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSeunOlamiju&show_icons=true&theme=tokyonight)
+## 🌍 Connect With Me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheSeunOlamiju)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347049281410)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSeunOlamiju)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeunOlamiju&layout=compact&theme=tokyonight)
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSeunOlamiju&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeunOlamiju&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=TheSeunOlamiju&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=TheSeunOlamiju&theme=radical&hide_border=true)
 
 ---
 
@@ -50,13 +62,8 @@ I enjoy turning ideas into interactive web experiences and I'm currently learnin
 ---
 
 ## 📌 Featured Projects:
-Check out my repositories here:  
-👉 [My Repositories](https://github.com/TheSeunOlamiju?tab=repositories)
-
----
-
-## 📫 Connect With Me:
-- GitHub: [TheSeunOlamiju](https://github.com/TheSeunOlamiju)
+Here are some of my projects (more coming soon 🚀)  
+👉 Check out my repositories: [Click Here](https://github.com/TheSeunOlamiju?tab=repositories)
 
 ---
 
