@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seun Olamiju</h1>
+<h1 align="center"><em>Hi, I'm Seun Olamiju</em></h1>
 <h3 align="center">Frontend Developer | HTML • CSS • JavaScript | Learning React</h3>
 
 <p align="center">
@@ -42,12 +42,6 @@ I enjoy turning ideas into interactive web experiences and I'm currently learnin
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347049281410)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSeunOlamiju)
 
----
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSeunOlamiju&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeunOlamiju&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -59,13 +53,3 @@ I enjoy turning ideas into interactive web experiences and I'm currently learnin
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=TheSeunOlamiju&theme=onedark&row=1&column=6)
 
----
-
-## 📌 Featured Projects:
- 
-👉 Check out my repositories: [Here](https://github.com/TheSeunOlamiju?tab=repositories)
-More coming soon 🚀
-
----
-
-⭐ Thanks for visiting my profile!
