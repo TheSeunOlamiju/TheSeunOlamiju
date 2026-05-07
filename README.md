@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Currently+Learning+React+%F0%9F%9A%80;Building+Clean+and+Responsive+Web+Interfaces" />
 </p>
 
-##
+---
 
 ## ⭐ About Me:
 I'm a Frontend Developer passionate about building clean, responsive, and user-friendly websites.  
@@ -62,8 +62,9 @@ I enjoy turning ideas into interactive web experiences and I'm currently learnin
 ---
 
 ## 📌 Featured Projects:
-Here are some of my projects (more coming soon 🚀)  
-👉 Check out my repositories: [Click Here](https://github.com/TheSeunOlamiju?tab=repositories)
+ 
+👉 Check out my repositories: [Here](https://github.com/TheSeunOlamiju?tab=repositories)
+More coming soon 🚀
 
 ---
 
