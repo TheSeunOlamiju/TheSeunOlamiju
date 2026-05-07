@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seun Olamiju</h1>
-<h3 align="center">Frontend Developer | HTML • CSS • JavaScript | Learning React 🚀</h3>
+<h3 align="center">Frontend Developer | HTML • CSS • JavaScript | Learning React</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheSeunOlamiju&style=for-the-badge&color=blue" />
@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Currently+Learning+React+%F0%9F%9A%80;Building+Clean+and+Responsive+Web+Interfaces" />
 </p>
 
----
+##
 
 ## ⭐ About Me:
 I'm a Frontend Developer passionate about building clean, responsive, and user-friendly websites.  
