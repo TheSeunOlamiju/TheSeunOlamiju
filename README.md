@@ -1,5 +1,4 @@
-<h1 align="center"><em>Hi, I'm Seun Olamiju</em></h1>
-<h3 align="center">Frontend Developer | HTML • CSS • JavaScript | Learning React</h3>
+<h1 align="center" style="color:red;">Hi, I'm Seun Olamiju</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheSeunOlamiju&style=for-the-badge&color=blue" />
