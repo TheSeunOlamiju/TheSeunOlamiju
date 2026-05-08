@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hi, I'm Seun Olamiju</h1>
+<h1 align="center" color="red">Hi, I'm Seun Olamiju</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheSeunOlamiju&style=for-the-badge&color=blue" />
