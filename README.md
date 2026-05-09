@@ -32,7 +32,7 @@ I enjoy turning ideas into interactive web experiences and I'm currently learnin
 ---
 
 ## 🛠 Tools I Use:
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,chrome,codepen" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,firefox,codepen" />
 
 ---
 
